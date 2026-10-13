@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Ceklist Standar Penampilan Peserta",
+  "description": "Aplikasi pendataan dan verifikasi standar penampilan peserta berbasis Google Sheets dengan pencarian NIK otomatis dan checklist real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
